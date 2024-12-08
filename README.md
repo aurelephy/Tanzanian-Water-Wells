@@ -90,10 +90,9 @@ Deploying and refining predictive models will further augment traditional method
 Ultimately, these efforts will result in improved water access for Tanzanian citizens, enhancing health, well-being, and overall quality of life. With a commitment to continuous improvement and adaptation, Tanzania can ensure a brighter future for its communities through reliable and sustainable water supply systems.
 Based on the evaluation of various regression and classification models, it is evident that machine learning algorithms can effectively predict the condition of waterpoints in Tanzania.
 ## Repository Navigation
-- Data
+- Data Report 
 - Notebook
-- WaterWellsProjectNotebook
-- data report 
+- Tz water wells.ipynb
 - Readme
 
 ## Authors
